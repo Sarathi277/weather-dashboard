@@ -79,7 +79,7 @@ https://github.com/Sarathi277/weather-dashboard/blob/main/city%20name%20entered.
 *(Caption: Complete weather data display including temperature, humidity, and conditions)*
 
 ### Weather Icon Representation
-![Weather icon showing clear sky representation](screenshots/weather-icon.jpg)  
+https://github.com/Sarathi277/weather-dashboard/blob/main/visual%20condition%20through%20icon.png
 *(Caption: Visual weather condition representation through icon)*
 
 ### Error Handling
